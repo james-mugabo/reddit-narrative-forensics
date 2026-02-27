@@ -14,4 +14,4 @@ A social media analytics pipeline designed for social cyber-forensics research. 
 * **Libraries:** Pandas, NetworkX, VADER Sentiment, Matplotlib
 
 ## Research Application
-This project demonstrates core competencies in Focal Structure Analysis, information flow tracking, and data resilience—key pillars of the COSMOS Lab’s methodology.
+This project demonstrates core competencies in Focal Structure Analysis, information flow tracking, and data resilience.
